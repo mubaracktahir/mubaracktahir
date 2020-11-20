@@ -1,17 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mubarack Tahir</h1>
-<h3 align="center">A passionate Android developer from Nigeria</h3>
+### Hi there, I'm Mubarack 👋🏻 .
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubaracktahir&label=Profile%20views&color=0e75b6&style=flat" alt="mubaracktahir" /> </p>
+<a href="https://twitter.com/mubaracktahir">
+  <img align="left" alt="Furkan's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/mubaracktahir">
+  <img align="left" alt="Mabarack's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@mubaracktahir">
+  <img align="left" alt="Mubarack's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/medium.svg" />
+</a>
+<a href="https://profile.codersrank.io/user/mubaracktahir/">
+  <img align="left" alt="Mubarack's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mubaracktahir" height="30" width="40" /></a>
-<a href="https://twitter.com/mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mubaracktahir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mubaracktahir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mubaracktahir" height="30" width="40" /></a>
-<a href="https://instagram.com/mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mubaracktahir" height="30" width="40" /></a>
-<a href="https://medium.com/@mubaracktahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mubaracktahir" height="30" width="40" /></a>
+
+<br />
+<br />
+
+# About me
+
+- 🎓 22 year old Computer Science student.
+- 📱 Android Application developer.
+- 👨‍💻 Mostly working on Android, Kotlin!
+- ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
+- 🎮 Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
+
+<br />
+<br />
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mubaracktahir&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mubaracktahir/count.svg" />
+</p>
