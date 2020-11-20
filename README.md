@@ -19,7 +19,7 @@
 
 # About me
 
-- 🎓 22 year old Computer Science student.
+- 🎓Computer Science student.
 - 📱 Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
