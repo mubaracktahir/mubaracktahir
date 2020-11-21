@@ -19,10 +19,10 @@
 
 # About me
 
-- 🎓Computer Science student.
-- 📱 Android Application developer.
+- 🎓 Computer Science student.
+- 📱  Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
-- ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan).
+- ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan) & [Hashnode](https://mubaracktahir.me).
 - 🎮 Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
 
 <br />
