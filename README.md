@@ -1,7 +1,7 @@
 ### Hi there, I'm Mubarack 👋🏻 .
 
 <a href="https://twitter.com/mubaracktahir">
-  <img align="left" alt="Furkan's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mubaracks's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/mubaracktahir">
   <img align="left" alt="Mabarack's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,7 +23,7 @@
 - 📱  Android Application developer.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@askinfurkan) & [Hashnode](https://www.mubaracktahir.me).
-- 🎮 Loves playing [Dota2](https://steamcommunity.com/id/Liifestartsnow), [CS:GO](https://steamcommunity.com/id/Liifestartsnow)
+- 🎮 Loves playing [Asphalt](https://asphaltlegendsunite.com/)
 
 <br />
 <br />
